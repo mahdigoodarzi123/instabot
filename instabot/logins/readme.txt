@@ -1,1 +1,0 @@
-If you want to use this bot,you should download the Geckodriver (for Chrome or Firefox or ...) from selenium's site
